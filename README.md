@@ -153,10 +153,10 @@ Before Brock:
 
 #### Mt. Moon Man:
 - Rattata: [1-16 Potion]
-	- 3+ HA -> HA x2 (+PS)
+	- 3+ HA --> HA x2 (+PS)
     - 2  HA --> Leer + HA + Tackle/PS
 - Zubat:
-	- 3 HA --> HA x3
+	- 3+ HA --> HA x3
     - 2 HA --> Leer + HA x2
     - 1 HA --> Leer + Tackle + HA (+ Tackle)
 
