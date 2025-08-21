@@ -158,7 +158,7 @@ Before Brock:
 - Zubat:
 	- 3 HA --> HA x3
     - 2 HA --> Leer + HA x2
-    - 1 HA --> Leer + Tackle + HA
+    - 1 HA --> Leer + Tackle + HA (+ Tackle)
 
 #### Moon Man's Zubat 
 | DEF  | Not confused  | Confused      |
