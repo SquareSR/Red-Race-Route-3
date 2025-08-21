@@ -54,12 +54,6 @@ Forest Menu:
 - 1-15 HP: **Potion**
 - **Antidote** (use or toss)
 
-Optional - with Bad Special (13 SPC @L8) - Do **4A Press - Backup Pidgey Manip**:
-- Walk up and menu with **Weedle Guy still on screen** (one tile shy of being off screen).
-- Nido is in the lead, pidgey catch is a normal yolo ball.
-- Use the same intro buffer as Route 3 Manip (Hold a palette swap)
-- <img src="https://i.imgur.com/fg8s3lj.png" width="175">
-
 ## Pewter City
 
 Pewter Mart:
@@ -197,7 +191,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 > If you somehow do not have a Paras and do not have a Spearow to trade for DUX,      
 > then pick up the [hidden Great Ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty      
 >        
-> <img src="https://i.imgur.com/bttz8xv.png" width="250">         
+> <img src="https://i.imgur.com/bttz8xv.png" width="150">         
 >       
 > only if you need this great ball immediately open the bag:      
 > (toss any regular pokeballs), Swap TM34 with Great Ball, Swap Great Ball with Potion, so Great Ball is Slot 1     
