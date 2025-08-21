@@ -107,8 +107,9 @@ Before Brock:
 		- in general, **Potion** immediately after turn 1 of Wrap hit
    
 > BC2 Weedle      
-> only Tackle turn 2 if high roll (see below) into hit by string shot (or after an HA crit)      
-> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">            
+> Tackle turn 2 only if high roll into string shot hit     
+> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">        
+> Always Tackle turn 2 if HP bar is lower than this          
 
 **Bug Catcher 2:**
 - **Weedle**:
@@ -120,12 +121,7 @@ Before Brock:
 - **Metapod**:
 	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod)
 
-#### Before Bug Catcher 3
-| HP   | Healing Strategy  |
-| ---- | ----------------- |
-| 1-5  | Potion x2         |
-
-> ideally we want at least 3 HA left after BC3
+> 1-5 HP: **Potion** before the next fight
 
 **Bug Catcher 3:**
 - Caterpie: HA x2
