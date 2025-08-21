@@ -106,7 +106,8 @@ Before Brock:
 	- Leer + HA x2
 		- in general, **Potion** immediately after turn 1 of Wrap hit
    
-> BC2 Weedle - only Tackle turn 2 if high roll (see below) into hit by string shot (or after an HA crit)      
+> BC2 Weedle      
+> only Tackle turn 2 if high roll (see below) into hit by string shot (or after an HA crit)      
 > <img src="https://i.imgur.com/ic8Y6a9.png" width="150">            
 
 **Bug Catcher 2:**
