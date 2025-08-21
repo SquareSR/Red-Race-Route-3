@@ -19,7 +19,7 @@
 - TW (+TW again if Growl turn 1) + spam Tackle
 - 1-5 HP: Use Potion
 
-> L6 Squirtle:      
+> **L6 Squirtle Stats**      
 > 10 ATK --> TW x3 on Weedle Guy     
 > 11 SPC --> likely bad Special     
                                        
@@ -45,7 +45,7 @@ Viridian Mart:
 - TW x2-3 + spam Tackle 
 
 > **L8 Squirtle Stats**         
-> **Defense** is **15** or **16** or **17**     
+> **Defense** is **15-17**     
 > **Special** is **13** or **14-15**     
 > **13 SPC is bad special**, save for brock.     
 
@@ -116,7 +116,7 @@ Before Brock:
 	- HA x2
 - **Kakuna**:
 	- HAx2-3 + Tackle x1-2
-- **Caterpie**: [**1-5 HP**: **Potion**]
+- **Caterpie**: [1-5 Potion]
     - HA x2 (only Tackle turn 2 if hit by 2 SS before 1st HA)
 - **Metapod**:
 	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod)
@@ -152,13 +152,13 @@ Before Brock:
 - Save the Game
 
 **Mt Moon Man:**
-- **Rattata**: [1-16 Potion on Rat]
+- **Rattata**: [1-16 Potion]
 	- **3-5 HA**: **HA x2 (+PS)**
-    - **2 HA**: Leer + HA + Tackle/PS
-- **Zubat**: [see table below for when to heal]
+    -  **2 HA**: Leer + HA + Tackle/PS
+- **Zubat**: [see table below for when to Potion]
 	- **3+ HA**: **HA x3**
-    - **2 HA**: **Leer + HA x2**
-    - **1 HA**: **Leer + Tackle + HA** 
+    -  **2 HA**: **Leer + HA x2**
+    -  **1 HA**: **Leer + Tackle + HA** 
 
 #### Moon Man's Zubat 
 | DEF  | Not confused  | Confused      |
