@@ -87,7 +87,7 @@ Before Brock:
 
 ## Route 3
 
-**Bug Catcher 1:**
+#### Bug Catcher 1
 - Caterpie:
 	- Leer + HA x2 (+ Tackle)
 - Weedle: [1-9 Potion]
@@ -95,11 +95,11 @@ Before Brock:
 - Caterpie:
      - Leer + Tackle + HA (+ Tackle)
 
-**Menu before Shorts Guy**:
+#### Menu before Shorts Guy
 - Potion to 28+ HP
 - Toss Antidote (if you still have it)
 
-**Shorts Guy:**
+#### Shorts Guy
 - Rat: [1-15 Potion; 1-18 if @-2]
 	- Leer + HA x2
 - Ekans: [1-5 Potion; 1-6 if @-2; 1-8 if @-3]
@@ -111,7 +111,7 @@ Before Brock:
 > <img src="https://i.imgur.com/ic8Y6a9.png" width="150">        
 > Always Tackle turn 2 if HP bar is lower than this          
 
-**Bug Catcher 2:**
+#### Bug Catcher 2
 - **Weedle**:
 	- HA x2
 - **Kakuna**:
@@ -123,16 +123,17 @@ Before Brock:
 
 > 1-5 HP: **Potion** before the next fight
 
-**Bug Catcher 3:**
-- Caterpie: HA x2
-- Metapod: Spam HA, finish with Tackle
+#### Bug Catcher 3
+- Caterpie:
+    - HA x2
+- Metapod:
+    - Spam HA, finish with Tackle
 
-**Catch a flyer**:
+#### Catch a flyer
 - **Bird**:
-	- Tackle, then throw balls
+	- **Tackle**, then throw balls
 - **L8 Pidgey**:
-	- Leer + Tackle, then throw balls
-	- or HA x1, then throw balls (only if 6+ HA are left)
+	- **Leer + Tackle**, then throw balls
 
 ## Mount Moon 
 
