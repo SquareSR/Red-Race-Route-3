@@ -105,11 +105,9 @@ Before Brock:
 - Ekans: [1-5 Potion; 1-6 if @-2; 1-8 if @-3]
 	- Leer + HA x2
 		- in general, **Potion** immediately after turn 1 of Wrap hit
-
-> BC 2 Notes:     
+   
 > BC2 Weedle - only Tackle turn 2 if high roll (see below) into hit by string shot (or after an HA crit)      
-> <img src="https://i.imgur.com/ic8Y6a9.png" width="250">      
-> BC2 Caterpie - only Tackle turn 2 if hit by 2 String Shots before HA (or after an HA crit)      
+> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">            
 
 **Bug Catcher 2:**
 - **Weedle**:
@@ -117,7 +115,7 @@ Before Brock:
 - **Kakuna**:
 	- HAx2-3 + Tackle x1-2
 - **Caterpie**: [**1-5 HP**: **Potion**]
-    - HA x2
+    - HA x2 (only Tackle turn 2 if hit by 2 SS before 1st HA)
 - **Metapod**:
 	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod)
 
