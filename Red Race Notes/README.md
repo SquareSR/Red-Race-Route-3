@@ -891,11 +891,11 @@ HP      | ITEMS
 - **Save before Lance**
 
 **Lance:**
-- Gyarados: **Slot 3 - X Special** + TB
-- Dragonair 1: **X Special** (*+ Up 1 - X Acc if you have 3 X Accs left*) + Blizz
-- Dragonair 2: Blizz
-- Aerodactyl: TB
-- Dragonite: Blizz
+- Gyarados: **Slot 3 - X Special** + **TB**
+- Dragonair 1: **X Special** (+ Up 1 - X Accuracy only if you have 3 X Accs left) + **Blizz**
+- Dragonair 2: **Blizz**
+- Aerodactyl: **TB**
+- Dragonite: **Blizz**
 
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
