@@ -160,7 +160,7 @@ Before Brock:
     - 2 HA --> Leer + HA x2
     - 1 HA --> Leer + Tackle + HA (+ Tackle)
 
-#### Moon Man's Zubat 
+#### Moon Man's Zubat (When to Potion)
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
