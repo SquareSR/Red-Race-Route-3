@@ -25,12 +25,12 @@
                                        
 ## Parcel Quest
 
-If you get a L2 or L3 encounter, spam Tackle to get EXP
+KO one L2 or L3 encounter by spamming Tackle to get EXP.
 
 ## Viridian City
 
 Viridian Mart:
-- **5 Poke Balls**
+- Buy **5 Poke Balls**
 
 **Nidoran Manip**
 > Swap Potion & Pokeball before Saving    
@@ -42,12 +42,13 @@ Viridian Mart:
 - Get the **Antidote** and the **hidden Forest Potion**
 
 **Weedle Guy:** [1-7 HP: Potion]
-- TW x2-3 + spam Tackle 
+- TW x2-3 + spam Tackle
+    - TW x3 is best if Bad ATK (10 ATK @L6)
 
 > **L8 Squirtle Stats**         
-> **Defense** is **15-17**     
+> Defense is **15-17**     
 > **Special** is **13** or **14-15**     
-> **13 SPC is bad special**, save for brock.     
+> **13 SPC --> Bad Special**    
 
 Forest Menu:
 - Swap Nido and Squirtle
@@ -57,10 +58,12 @@ Forest Menu:
 ## Pewter City
 
 Pewter Mart:
-- **7 Potions**
+- Buy **7 Potions**
 
-Before Brock:
-- Save if you have bad Special (13 SPC @L8) and no backup pidgey. 
+#### Before Brock:
+- Save if you have Bad Special (13 SPC @L8).
+
+> Assume bad defense (15 DEF @L8) if you're not sure.
 
 #### When to Potion on Brock:
 | **L8 DEF**  |  **Geodude** |     | **Onix**  | after 1 Screech | after 2 Screech |
@@ -70,12 +73,10 @@ Before Brock:
 |   **17**    |     1-13     |     |   1-12    |      1-12       |     1-20        |
 
 **Brock:**
-- Geodude: Swap to Squirtle + spam Bubble
+- Geodude: Swap to Squirtle + Bubble x2-3
 	- Say yes, swap back to Nido
-- Onix: Swap back to Squirtle + spam Bubble
+- Onix: Swap back to Squirtle + Bubble x2-3
 	- Turn 1 Bide --> TW x2
-    - If bad Special + Bubble x1 into Turn 2 Bide, then either **swap to bird to sac** or **yolo spam bubble**.
-    - If bad Special + 2 Screech hits, you can swap to + sac bird if Onix still has a turn + you're below 21 HP.
 
 **Options**: Battle Style to **Set** before leaving Brock's gym
 
@@ -111,9 +112,9 @@ Before Brock:
 - **Kakuna**:
 	- HAx2-3 + Tackle x1-2
 - **Caterpie**: [1-5 Potion]
-    - HA x2 (only Tackle turn 2 if hit by 2 SS before 1st HA)
+    - HA x2 (only Tackle turn 2 if hit by 2 stringshot before 1st HA hits)
 - **Metapod**:
-	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod)
+	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod & have 9+ HAs left; otherwise Tackle turn 3)
 
 > 1-5 HP: **Potion** before the next fight
 
@@ -121,37 +122,34 @@ Before Brock:
 - Caterpie:
     - HA x2
 - Metapod:
-    - Spam HA, finish with Tackle
+    - HA x3-4 + Tackle x1-2 (switch to spamming Tackle if only 3 HAs are left) 
 
-#### Catch a flyer
+#### Catch a flyer (never use HA on a bird)
 - **Bird**:
 	- **Tackle**, then throw balls
 - **L8 Pidgey**:
 	- **Leer + Tackle**, then throw balls
 
-## Mount Moon 
+#### Moon Manip Save Menu:
+- **Heal to 22+ HP before saving.** 
 
-- Heal to 22+ HP before saving. 
+## Mount Moon 
 - Do [Leo's Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing) (**Hold a palette swap**)
 
-**PoY Backup** (**Standard Intro**)
-- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
-
-**Grogir Backup** (**Hold A on Bios**)
+**Grogir's Backup** (**Hold A on Bios**)
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
 **Menu** before walking in front of the Rocket:
-- Toss any remaining Poke Balls (only if you have a Paras)
+- Toss any remaining Poke Balls (if you have a Paras)
 - Potion to 36+ HP
 - Save the Game
 
 #### Mt. Moon Man:
 - Rattata: [1-16 Potion]
-	- 3+ HA --> HA x2 (+PS)
-    - 2  HA --> Leer + HA + Tackle/PS
+	- **HA x2 (+PS)**
 - Zubat:
-	- 3+ HA --> HA x3
-    - 2 HA --> Leer + HA x2
+	- 3 HA --> **HA x3**
+    - 2 HA --> **Leer + HA x2**
     - 1 HA --> Leer + Tackle + HA (+ Tackle)
 
 #### Moon Man's Zubat (When to Potion)
@@ -176,7 +174,7 @@ Menu 1-2 steps after defeating Moon Man:
 
 **Super Nerd**:
 - Grimer:
-	- MP + WG or HA
+	- MP + WG or HA/MP
 - Voltorb:
 	- MP + PS
 - Koffing: (WG turn 2 if turn 1 crit)
@@ -193,9 +191,9 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 >        
 > <img src="https://i.imgur.com/bttz8xv.png" width="150">         
 >       
-> only if you need this great ball immediately open the bag:      
-> (toss any regular pokeballs), Swap TM34 with Great Ball, Swap Great Ball with Potion, so Great Ball is Slot 1     
-
+> If you get this great ball for Oddish, immediately MENU:      
+> (A) If you have pokeballs left, then **swap Pokeball with Great Ball + toss Pokeballs**.      
+> (B) If zero pokeballs are left, then **Swap TM34 with Great Ball, Swap Great Ball with Potion, so Great Ball is Slot 1**      
 
 ## Nugget Bridge
 
@@ -220,7 +218,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 
 **BC:**
 - MP (+ PS)
-- MP (if you missed MP into String Shot hit use HA)
+- MP (or HA if hit by String Shot)
 
 > Potion **before** any bridge fight if under 25 HP to play safe    
 > (this saves us from having to potion in fight and getting heal looped)     
@@ -262,8 +260,6 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - HA x2 (1-6 HP: Potion)
 
 > 1-7 HP: Potion before the Hiker
-> 8-12 HP: 
-> 13-17 HP: HA + PS Machop
 
 **Hiker:**
 - Geodude 1
@@ -281,10 +277,11 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Lass:**
 - MP
 - HA
-- MP (or Thrash if you can already)
+- MP (or Thrash)
 	- Teach Thrash over WG (slot 2)
 
 Menu after Bill:
+- (Toss Pokeballs if you haven't already)
 - Use Slot 5 - **Rare Candy**
 - Use Slot 3 - **Escape Rope**
 
@@ -308,34 +305,31 @@ Menu after Bill:
     - Thrash x1
 - Starmie:
     - Thrash x2-3
-	- If confused on Starmie after X-Defend, swap to Squirtle + spam TW to let it be KO'd.
+	- Confused after X-Defend --> **swap to Bird** and let it be KO'd.
 
 ## After Misty
 
-> If you somehow have **zero Potions** left, go to the **Cerulean Mart** after Misty     
-> Buy **5 Potions**     
-> (+ Menu to swap TM34 down with Potions to fix our bag.)     
-> Pick up the hidden Full Restore in the underground           
-> <img src="https://i.imgur.com/jaosL5j.png"  width="125">       
-> sell the full restore later in Celadon.     
-> (5 potions cost 1500 and the full restore sells for 1500)        
+> If **Zero Potions** left and under ~50 HP:     
+> - **Use the Cerulean Center again after Misty**       
+> - Get the hidden Full Restore in the underground     
+> <img src="https://i.imgur.com/jaosL5j.png"  width="125">      
+> - Keep TM34 in place of Potions in our bag (do not sell TM34)     
+> - In Celadon: Sell both Nuggets + Sell Full Restore       
 
 If **1-15 HP** (or 16-24 HP) **after Misty** then:
-- with **3+ Potions** left:
-   - use a **Potion** on Nido.
-- with **1-2 Potions** left:
-   - Pickup the hidden full restore in the underground
+- **3+ Potions** left --> use a **Potion**
+- **1-2 Potions** left --> get + use the **hidden Full Restore**
    - <img src="https://i.imgur.com/jaosL5j.png"  width="125"> 
-   - and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
+   - **Full Restore** - Slot 8
 
 ## Route 6
 
 Ignore the note below if you either caught Paras or have a Spearow to trade for DUX:
 
-> If you picked up the hidden Great Ball,     
-> then menu immediately after exiting the house after the underground:        
-> - Save, Hard Reset, Normal Intro Buffer, zero A presses, Normal Yolo Ball      
-> - <img src="https://i.imgur.com/AJkWygf.png" width="115">       
+> If you picked up the hidden Great Ball, do backup oddish manip immediately after exiting the underground house:           
+> Save, Hard Reset, Normal Intro Buffer, zero A presses, Normal Yolo Ball       
+>         
+> <img src="https://i.imgur.com/AJkWygf.png" width="115">       
 
 **Jr Trainer F:**
 - Thrash x3
@@ -358,7 +352,7 @@ Before Boat Rival:
         - Swap to Bird or Squirtle right away and let them be KO'd by Pidgeotto 
 - Raticate:
 	- 1-12 HP ---> **Potion**
-  - 13-22 HP --> **Potion** [or **MP**, risks being KO'd by Hyper Fang crit]
+    - 13-22 HP --> **Potion** [or **MP**, risks being KO'd by Hyper Fang crit]
 	- 23+ HP --- > **HA x2**
 - Kadabra:
 	- 1-12 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
