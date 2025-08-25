@@ -596,13 +596,13 @@ Get the Card Key
 > Be sure to follow the correct strats prior to Silph Rocket          
 > Either **1-77 HP** or **78+ HP**         
 
-#### If 1-77 HP, 
+#### (1) If 1-77 HP, 
 - Menu before Silph Rocket:
   - Use **Elixer** - Slot 8
 - Silph Rocket (1-77 HP)
   - **X Accuracy** + BB, then **HD x2** 
 
-#### If 78+ HP,
+#### (2) If 78+ HP,
 - Skip menu.
 - Silph Rocket (78+ HP)
 - Cubone:
