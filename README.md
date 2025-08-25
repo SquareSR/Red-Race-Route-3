@@ -594,7 +594,7 @@ Get the Card Key
     - HD x5
 
 > Be sure to follow the correct strats prior to Silph Rocket          
-> Either **1-77 HP** or **78+ HP**         
+> Either (1) **1-77 HP** or (2) **78+ HP**         
 
 #### (1) If 1-77 HP, 
 - Menu before Silph Rocket:
