@@ -593,24 +593,21 @@ Get the Card Key
 	- d13 - **X Speed** (3 below Revive)
     - HD x5
 
-> Be sure to follow the correct strats prior to Silph Rocket          
-> Either (1) **1-77 HP** or (2) **78+ HP**         
+> If under 78 HP, then **Menu before the next fight**:        
+> use Slot 8 - Elixer (3 below Parlyz Heal)      
+>      
+> **Silph Rocket - under 78 HP**:      
+> - Cubone: X-Accuracy + BB     
+> - Drowzee: HD     
+> - Marowak: HD     
 
-#### (1) If 1-77 HP, 
-- Menu before Silph Rocket:
-  - Use **Elixer** - Slot 8
-- Silph Rocket (1-77 HP)
-  - **X Accuracy** + BB, then **HD x2** 
-
-#### (2) If 78+ HP,
-- Skip menu.
-- Silph Rocket (78+ HP)
+**Silph Rocket - with 78+ HP**: 
 - Cubone:
     - **X Accuracy**
-    - if Bone Club hits, d6 **Elixer** 
+    - if Bone Club hits, then use **Elixer** (3 below Parlyz Heal)
     - BB
 - Drowzee:
-    - d6 **Elixer** (if you haven't already)
+    - use **Elixer** (3 below Parlyz Heal) [if you haven't already]
     - HD
 - Marowak:
     - HD
