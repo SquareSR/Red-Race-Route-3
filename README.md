@@ -315,11 +315,12 @@ Menu after Bill:
 > - Keep TM34 in place of Potions in our bag (do not sell TM34)     
 > - In Celadon: Sell both Nuggets + Sell Full Restore       
 
-If **1-15 HP** (or 16-24 HP) **after Misty** then:
+#### If **1-15 HP** (or 16-24 HP) **after Misty** then:
 - **3+ Potions** left --> use a **Potion**
 - **1-2 Potions** left --> get + use the **hidden Full Restore**
-   - <img src="https://i.imgur.com/jaosL5j.png"  width="125"> 
    - **Full Restore** - Slot 8
+
+> <img src="https://i.imgur.com/jaosL5j.png"  width="125"> 
 
 ## Route 6
 
@@ -592,13 +593,16 @@ Get the Card Key
 	- d13 - **X Speed** (3 below Revive)
     - HD x5
 
-#### Scenario 1: if 1-77 HP, 
+> Be sure to follow the correct strats prior to Silph Rocket          
+> Either **1-77 HP** or **78+ HP**         
+
+#### If 1-77 HP, 
 - Menu before Silph Rocket:
   - Use **Elixer** - Slot 8
 - Silph Rocket (1-77 HP)
   - **X Accuracy** + BB, then **HD x2** 
 
-#### Scenario 2: if 78+ HP,
+#### If 78+ HP,
 - Skip menu.
 - Silph Rocket (78+ HP)
 - Cubone:
