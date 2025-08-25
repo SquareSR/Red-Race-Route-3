@@ -311,8 +311,7 @@ Menu after Bill:
 
 > If **Zero Potions** left and under ~50 HP:     
 > - **Use the Cerulean Center again after Misty**       
-> - Get the hidden Full Restore in the underground     
-> <img src="https://i.imgur.com/jaosL5j.png"  width="125">      
+> - Get the hidden Full Restore in the underground        
 > - Keep TM34 in place of Potions in our bag (do not sell TM34)     
 > - In Celadon: Sell both Nuggets + Sell Full Restore       
 
