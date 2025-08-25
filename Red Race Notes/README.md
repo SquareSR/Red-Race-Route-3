@@ -3,13 +3,19 @@
 ### Resources 
 - [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
 - [Defensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
-- [Offensive Ranges - click to expand HP bar images](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
+- [Offensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
 - [racetime.gg](https://racetime.gg/)
 
+### Other Routes
+- [6 Repel + PPUP - Race Route Notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
+- [3 Repel + PPUP - Race Route by MaddiicT](https://pastebin.com/pNNQR9r4)
+- [3 Repel Race Route Flex Rt3 Lass](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/race-route/)
+
+
 ### Before you start
-- Up + B + Select to clear save data.
+- Use Up + B + Select to clear save data.
 - Hard reset + set the requested palette (if applicable)
-- Options: Text Speed **Fast** and Animations **OFF**
+- Set options to Fast Text and Animations OFF
 
 ## Pallet Town
 
@@ -19,120 +25,151 @@
 - TW (+TW again if Growl turn 1) + spam Tackle
 - 1-5 HP: Use Potion
 
-> **L6 Squirtle Stats**      
+> L6 Squirtle:      
 > 10 ATK --> TW x3 on Weedle Guy     
 > 11 SPC --> likely bad Special     
                                        
 ## Parcel Quest
 
-If you get a L2 or L3 encounter, spam Tackle to get EXP
+If you get a L2 or L3 encounter, spam Tackle to get EXP   
+> run from L3 Pidgey on the first pass of Route 1    
 
 ## Viridian City
 
-Viridian Mart:
-- **5 Poke Balls**
+Below is a note for what to do if **No EXP yet after Route 1**:
 
-**Nidoran Manip**
-> Swap Potion & Pokeball before Saving    
+> In Viridian Forest:       
+> Tackle spam on L3 Caterpie, if you get one - otherwise, run from wild encounters.          
+>        
+> Route 2 / after Viridian Forest (with a L7 Squirtle):            
+>           
+> KO one encounter in Route 2:     
+> If you already used Antidote, then run from Weedles.         
+> L2-3 Encounter: spam Tackle     
+> L4-5 Encounter: TW + spam Tackle                                  
+>      
+> If L5 Pidgey hits too many sand attacks, then either           
+> (1) run if it's above half HP or               
+> (2) throw pokeball if it's below half HP           
+> then find another encounter to KO to reach L8 & learn Bubble.     
+
+Viridian Mart:
+- Buy **5 Poke Balls**
+
+Nidoran Manip
+> Swap Potion & Pokeball before Saving     
+> or be ready to perform a Slot 2 Yoloball     
 
 - Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
 ## Viridian Forest
              
-- Get the **Antidote** and the **hidden Forest Potion**
+- Get the Antidote and the hidden Forest Potion
 
 **Weedle Guy:** [1-7 HP: Potion]
 - TW x2-3 + spam Tackle 
+    - TW x3 is best if Bad ATK (10 ATK @L6)
 
-> **L8 Squirtle Stats**         
-> **Defense** is **15-17**     
-> **Special** is **13** or **14-15**     
-> **13 SPC is bad special**, save for brock.     
+> L8 Squirtle Stats     
+> Check Defense & Special again      
+> DEF is 15 or 16 or 17     
+> 13 SPC --> Bad Special       
 
-Forest Menu:
+If you were PSN'd Menu:
 - Swap Nido and Squirtle
-- 1-15 HP: **Potion**
-- **Antidote** (use or toss)
+- 1-15 HP: Potion
+- Antidote
+
+If Bad Special (13 @L8) - Do **Backup Pidgey Manip**:
+- Walk up and menu with Weedle Guy just on screen.
+- Still Swap Nido to the lead + potion/antidote as needed
+- Hold a Palette Swap into standard intro (manip has four A presses total).
+- <img src="https://i.imgur.com/fg8s3lj.png" width="175">
 
 ## Pewter City
 
 Pewter Mart:
-- **7 Potions**
+- Buy **7 Potions**
 
-Before Brock:
-- Save if you have bad Special (13 SPC @L8) and no backup pidgey. 
+If you were not PSN'd, Menu in Brock's Gym:
+- Swap Nido and Squirtle 
+- 1-15 HP: Potion 
+- Toss Antidote
+- [Save if you have bad Special and no bird]
 
-#### When to Potion on Brock:
-| **L8 DEF**  |  **Geodude** |     | **Onix**  | after 1 Screech | after 2 Screech |
-| ----------- | ------------ | --- | --------- | --------------- | --------------- |
-|   **15**    |     1-15     |     |   1-13    |      1-14       |     1-20        |
-|   **16**    |     1-14     |     |   1-12    |      1-14       |     1-20        |
-|   **17**    |     1-13     |     |   1-12    |      1-12       |     1-20        |
+> Use your Defense stat @L8 to decide when to Potion in fight    
+> if you didn't check, then assume 15 DEF @ L8      
 
 **Brock:**
-- Geodude: Swap to Squirtle + spam Bubble
-	- Say yes, swap back to Nido
-- Onix: Swap back to Squirtle + spam Bubble
-	- Turn 1 Bide --> TW x2
-    - If bad Special + Bubble x1 into Turn 2 Bide, then either **swap to bird to sac** or **yolo spam bubble**.
-    - If bad Special + 2 Screech hits, you can swap to + sac bird if Onix still has a turn + you're below 21 HP.
 
-**Options**: Battle Style to **Set** before leaving Brock's gym
+#### When to Potion on Brock:
+| DEF  | Heal on Geodude | Heal on Onix | after 1 Screech | after 2 Screeches |
+| ---- | --------------- | ------------ | ----------------| ------------------|
+| 15   |      1-15       |     1-13     |       1-14      |       1-20        |
+| 16   |      1-14       |     1-12     |       1-14      |       1-20        |
+| 17   |      1-13       |     1-12     |       1-12      |       1-20        |
+
+- Geodude: Swap to Squirtle, then spam Bubble
+	- Say yes, swap back to Nido
+- Onix: Swap to Squirtle, then spam Bubble
+	- Turn 1 Bide --> TW x2
+    - If bad Special + Bubble x1 into Turn 2 Bide, then either swap to bird to sac if you have one (otherwise just yolo).
+    - If bad Special + 2 Screech hits, you can swap to + sac bird if Onix still has a turn.
+
+Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
 
-#### Bug Catcher 1
+**Bug Catcher 1:**
 - Caterpie:
 	- Leer + HA x2 (+ Tackle)
 - Weedle: [1-9 Potion]
-    - Leer + Tackle x3
-- Caterpie:
-     - Leer + Tackle + HA (+ Tackle)
+    - Leer + HA + HA/Tackle
+    - Alt Weedle: Leer + Tackle x3 (save an HA, costs 1 turn)
+- Caterpie: Leer + Tackle + HA (+ Tackle)
 
-#### Menu before Shorts Guy
+**Menu before Shorts Guy**:
 - Potion to 28+ HP
 - Toss Antidote (if you still have it)
 
-#### Shorts Guy
+**Shorts Guy:**
 - Rat: [1-15 Potion; 1-18 if @-2]
 	- Leer + HA x2
 - Ekans: [1-5 Potion; 1-6 if @-2; 1-8 if @-3]
 	- Leer + HA x2
-		- in general, **Potion** immediately after turn 1 of Wrap hit
-   
-> BC2 Weedle      
-> Tackle turn 2 only if high roll into string shot hit     
-> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">        
-> Always Tackle turn 2 if HP bar is lower than this          
+		- in general use a Potion immediately after turn 1 of any Wrap hit
 
-#### Bug Catcher 2
-- **Weedle**:
-	- HA x2
-- **Kakuna**:
-	- HAx2-3 + Tackle x1-2
-- **Caterpie**: [1-5 Potion]
-    - HA x2 (only Tackle turn 2 if hit by 2 SS before 1st HA)
-- **Metapod**:
+**Bug Catcher 2:**
+- Weedle:
+	- HA + HA/Tackle
+- Kakuna:
+	- HAx2 + HA or Tackle x1-2
+- Caterpie: [1-5 Potion]
+	- HA x2 (Tackle turn 2 only if Weedle hit 2 String Shots)
+- Metapod:
 	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod)
 
-> 1-5 HP: **Potion** before the next fight
+#### Before Bug Catcher 3
+| HP   | Healing Strategy  |
+| ---- | ----------------- |
+| 1-5  | Potion x2         |
 
-#### Bug Catcher 3
-- Caterpie:
-    - HA x2
-- Metapod:
-    - Spam HA, finish with Tackle
+> ideally we want at least 3 HA left after BC3
 
-#### Catch a flyer
+**Bug Catcher 3:**
+- Caterpie: HA x2
+- Metapod: Spam HA, finish with Tackle
+
+**Catch a flyer**:
 - **Bird**:
-	- **Tackle**, then throw balls
+	- Tackle, then throw balls
 - **L8 Pidgey**:
-	- **Leer + Tackle**, then throw balls
+	- Leer + Tackle, then throw balls
+	- or HA x1, then throw balls (only if 6+ HA are left)
 
 ## Mount Moon 
 
-- Heal to 22+ HP before saving. 
-- Do [Leo's Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing) (**Hold a palette swap**)
+- Do [Leo's Moon Manip](https://docs.google.com/spreadsheets/d/1-0PyeZYheS4lLVCAyM3pmPyoPEj3iAVYFUzFce_5AQs/edit?usp=sharing) or Route 3 (**Hold a palette swap**)
 
 **PoY Backup** (**Standard Intro**)
 - <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
@@ -145,22 +182,26 @@ Before Brock:
 - Potion to 36+ HP
 - Save the Game
 
-#### Mt. Moon Man:
-- Rattata: [1-16 Potion]
-	- 3+ HA --> HA x2 (+PS)
-    - 2  HA --> Leer + HA + Tackle/PS
-- Zubat:
-	- 3+ HA --> HA x3
-    - 2 HA --> Leer + HA x2
-    - 1 HA --> Leer + Tackle + HA (+ Tackle)
+**Mt Moon Man:**
+- 2 HA:
+	- Rat: Leer + HA + Tackle (or PS turn 3 if TW hit or PS always KOs)
+	- Zubat: Leer + Tackle + HA (+ Tackle)
+- 3 HA:
+	- Rat: HA x2 (+ PS)
+	- Zubat: Leer + Tackle + HA (+ Tackle)
+- 4 HA:
+	- Rat: HA x2 (+ PS)
+	- Zubat: Leer + HA x2
+- 5+ HA:
+	- Rat: HA x2 (+ PS)
+	- Zubat: HA x3 (+ Tackle)
 
-#### Moon Man's Zubat (When to Potion)
+#### Moon Man Zubat (When to Potion)
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
 | -1   |      1-11     |     1-26      |
 | -2   |      1-13     | Yolo or swap to a low-HP-mon |
-
 
 Menu 1-2 steps after defeating Moon Man:
 - Toss Pokeballs (if you haven't already & have a Paras)
@@ -184,14 +225,14 @@ Menu 1-2 steps after defeating Moon Man:
 
 
 If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-- Use the same intro buffer as Route 3 Manip (Hold a palette swap)
+- Use the same intro buffer as Route 3 Manip (PAL Hold)
 <img src="https://i.imgur.com/rRnoayt.png">
 <img src="https://i.imgur.com/MFBagiA.png">
 
 > If you somehow do not have a Paras and do not have a Spearow to trade for DUX,      
 > then pick up the [hidden Great Ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty      
 >        
-> <img src="https://i.imgur.com/bttz8xv.png" width="150">         
+> <img src="https://i.imgur.com/bttz8xv.png" width="250">         
 >       
 > only if you need this great ball immediately open the bag:      
 > (toss any regular pokeballs), Swap TM34 with Great Ball, Swap Great Ball with Potion, so Great Ball is Slot 1     
@@ -208,8 +249,8 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
     - HA x2 + HA or MP
 
     - Sand Attack x1
-         - 1-30 HP --> **Swap to Squirtle** & Potion Nido, Spam TW until Squirtle is KO'd
-         - 31+ HP ---> **keep spamming HA** & plan to sac Bird against Rat
+         - 1-30 HP --> **Swap to Squirtle**  & Potion Nido, Spam TW until Squirtle is KO'd
+         - 31+ HP ---> **keep spamming HA**  & the plan is to sacrifice our Bird against Rattata
 
     - Sand Attack x2+
          - **Swap to Squirtle** & (Potion Nido if 1-30 HP), spam TW to let Squirtle be KO'd
@@ -232,23 +273,24 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Youngster:**
 - MP
 - MP (+ PS)
-- MP (or HA w/ Moon Exp)
+- MP (HA if you KO'd a Moon encounter)
 
 **Lass:**
 - MP (+ PS)
 - HA x2
 
-**Mankey:** 
-| HP    | Strategy             |
-| ----- | -------------------- |
+**Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15]
+| HP    | Strategy        |
+| ----- | --------------- |
 | 1-15  | Potion before fight  |
-| 16+   | HA + HA/PS           |
+| 16-27 | HA + HA/PS       |
+| 28+   | MP (+ PS)       |
 
 > 1-9 HP: Potion before Rocket.
 
 **Rocket:**
 - MP
-- MP (or HA w/ Moon Exp)
+- MP (HA if you fought the extra Moon encounter)
 
 ## Route 25
 
@@ -262,8 +304,6 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - HA x2 (1-6 HP: Potion)
 
 > 1-7 HP: Potion before the Hiker
-> 8-12 HP: 
-> 13-17 HP: HA + PS Machop
 
 **Hiker:**
 - Geodude 1
@@ -275,8 +315,6 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
    - or HA + PS, if 16-20 HP
 - Geodude 3
    - WG
-
-> 1-6 HP: Potion turn 1 on Lass
 
 **Lass:**
 - MP
@@ -300,7 +338,7 @@ Menu after Bill:
 - Thrash x2
 
 **Menu before Misty**:
-- Potion to 75+ HP
+- Potion to 75+ HP if needed
 - Save the Game.
 
 **Misty**:
@@ -312,27 +350,25 @@ Menu after Bill:
 
 ## After Misty
 
-> If you somehow have **zero Potions** left, go to the **Cerulean Mart** after Misty     
-> Buy **5 Potions**     
-> (+ Menu to swap TM34 down with Potions to fix our bag.)     
+> If you somehow have zero Potions left, go to the **Cerulean Mart** after Misty           
+> Buy 5 Potions + quickly menu to swap TM34 with Potions to fix our bag.     
 > Pick up the hidden Full Restore in the underground           
 > <img src="https://i.imgur.com/jaosL5j.png"  width="125">       
-> sell the full restore later in Celadon.     
+> do not use it, sell the full restore later in Celadon.     
 > (5 potions cost 1500 and the full restore sells for 1500)        
 
-If **1-15 HP** (or 16-24 HP) **after Misty** then:
-- with **3+ Potions** left:
+If 1-15 HP (or 16-24 HP) after Misty:
+- If 3+ Potions are left:
    - use a **Potion** on Nido.
-- with **1-2 Potions** left:
+- Otherwise:
    - Pickup the hidden full restore in the underground
-   - <img src="https://i.imgur.com/jaosL5j.png"  width="125"> 
    - and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
 
 ## Route 6
 
 Ignore the note below if you either caught Paras or have a Spearow to trade for DUX:
 
-> If you picked up the hidden Great Ball,     
+> If you picked up the hidden Great Ball because you have a Pidgey and no Paras,     
 > then menu immediately after exiting the house after the underground:        
 > - Save, Hard Reset, Normal Intro Buffer, zero A presses, Normal Yolo Ball      
 > - <img src="https://i.imgur.com/AJkWygf.png" width="115">       
@@ -346,20 +382,21 @@ Ignore the note below if you either caught Paras or have a Spearow to trade for 
 ## Vermilion City
 
 Before Boat Rival:
-- Potion to 23+ HP to be safe (13+ HP is risky). 
+- Potion to 13+ or 23+ HP to be safe.
 
 **Boat Rival:** 
 - Pidgeotto: [1-12 HP: Potion]
 	- HA x2 
 	- Sand Attack x1
-        -  1-22 HP ---> **Swap to Squirtle**, Potion Nido, Spam TW to let Squirtle be KO'd.
+        -  1-12 HP ---> **Swap to Squirtle**, Potion Nido, Spam TW to let Squirtle be KO'd.
+        -  13-22 HP --> **Spam HA**  & plan to swap to Squirtle on Raticate (may be able to Pot Nido).
         -  23+ HP ----> **Spam HA**  & plan to swap to Bird on Raticate. 
     - Sand Attack x2+
-        - Swap to Bird or Squirtle right away and let them be KO'd by Pidgeotto 
+        - Swap to Bird/Squirtle right away and let them be KO'd by Pidgeotto 
 - Raticate:
 	- 1-12 HP ---> **Potion**
-  - 13-22 HP --> **Potion** [or **MP**, risks being KO'd by Hyper Fang crit]
-	- 23+ HP --- > **HA x2**
+    - 13-22 HP --> **Potion** [or **MP**, which risks being KO'd by Hyper Fang crit]
+	- 23+ HP --- > **HA + PS**
 - Kadabra:
 	- 1-12 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
 	- 13+ HP ---> **Thrash** 
@@ -368,19 +405,24 @@ Talk to the Captain to get HM01.
 
 Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
-| HP     | Strategy                                                                       |
-| ------ | ------------------------------------------------------------------------------ |
-| 1      | Do Gentleman + use a Potion in Cut Menu                                        |
-| 2-14   | Do Gentleman                                                                   |
-| 15-24  | Use a Potion in Cut Menu (if you have 2+ Potions left), otherwise Do Gentleman |
+| HP    | Strategy                                 |
+| ----- | ---------------------------------------- |
+| 1     | Do Gentleman + use a Potion in Cut Menu  |
+| 2-11   | Do Gentleman                            |
+| 12-24  | Do Gentleman to be extra safe           |
 
-**Vermillion Mart**:
+> Note:           
+> The text box after using cut = Instant Text.           
+> After pressing A to use Cut, **hold B**        
+> to perfectly auto-clear "Paras Hacked away with Cut."        
+
+Vermillion Mart:
 - 6 Repels
 - 4 Parlyz Heals
 
 **Cut Menu**:
 - Teach **TM11** (BB) over Slot 4 (PS)
-- use Rare Candy, if you fought the Gentleman
+- use Rare Candy, if you fought the Gentleman]
 - Teach **HM01** (Cut) to Paras
 - Up 1 - Teach **TM28** (Dig) to Paras
 - Use Cut
@@ -396,16 +438,16 @@ Do Cans Manip
     - Pika QA is 4 reg or 6-7 crit
 - Raichu:
 	- Thrash x2
-    - Swap to bird or Squirtle only if dead to hit self
+    - If you are confused and dead to a self hit, swap to your bird or Squirtle
 
 </td><td>
 
-Surge's Raichu    | Self Hit
+Raichu            | Self Hit
 ----------------- | --------
-&nbsp;            | **14**
-w/Growl           | **9**
-w/Screech         | **29**
-w/Screech & Growl | **17**
+&nbsp;            | 14
+w/Growl           | 9
+w/Screech         | 29
+w/Screech & Growl | 17
 
 Exit gym, Cut the tree, get the Bike Voucher, and Dig out. 
 
@@ -414,20 +456,21 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 - Get the Bike and exit shop.
 
 **Bike Menu**:
-  - Swap **Potion** slot 1, down 9 w/ Bike
-  - Up 1 - Teach **TM24** (TB) over Slot 3 (HA)
-  - Use the Bike + cut both trees
+  - Swap Slot 1 - **Potion** down 9 w/ Bike
+  - Up 1 Teach **TM24** (TB) over Slot 3 (HA)
+  - Use the Bike
 
 ## Route 9
 
 > Quick Reference     
-> Slot 7: Repel (3 below Nugget)     
+> SLot 7: Repel (3 below Nugget)     
 > Slot 8: Parlyz Heal     
 > Slot 9: Potion (3 below HM01)     
 
 **4 Turn Thrash Girl:**
 - MP
 - Thrash x3
+
 
 **Venonat Trainer:**
 | HP           | Strategy                    |
@@ -438,36 +481,27 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | 22+          | BB + Thrash                 |
 
 
-#### Fly Split Red Bar (risky)
-- Note: Swap + let swapped poke be KO'd if confused by Slowpoke.
-
-| HP @ L28 | Strategy                       |
-| -------- | ------------------------------ |
-| 1-21     | Play Normal                    |
-| 22-29    | 1st Slowpoke BB + TB           |
-| 30-31    | 2nd Slowpoke BB + TB           |
-|  32+     | no good strats - skip red bar  |
-
 ## Rock Tunnel
 
 > Quick Reference     
-> Slot 7: Repel (3 below Nugget)     
+> SLot 7: Repel (3 below Nugget)     
 > Slot 8: Parlyz Heal     
 > Slot 9: Potion (3 below HM01)     
+> (10+ tiles of wiggle room on 2nd/3rd Repel in either direction)    
 
 <img src="https://i.imgur.com/gs5N4V5.png">
 
 - **Pokemaniac 1**: BB, TB
 - **Pokemaniac 2**: TB
 
-> Save before Oddish Girl if **under 43 HP**.
-> Gentleman --> Always skip save & Thrash turn 1. 
+> Save before Oddish Girl if under 43 HP.     
+> Unless you did Gentleman Candy, then don't save and always thrash turn 1.     
 
 - **Oddish Girl**
-    - 1-17 or 23+ HP ---> **Thrash turn 1**
-    - 18-22 HP ---> **TB + Thrash**
-	   - Sleep ---> Potion under 6 HP.
-       - Para'd ---> keep Thrashing, but use Potion under 14 HP.
+    - 1-17 or 23+ HP --> Thrash turn 1
+    - 18-22 HP ----> TB + Thrash
+	   - Sleep ----> Potion under 6 HP.
+       - Para'd ----> keep using Thrash, but use Potion under 14 HP.
        - Do not use Para Heal in fight, use it in the next Repel Menu instead.
 
 - **Hiker**: BB x3
@@ -516,7 +550,7 @@ Celadon Mart:
 
 Take the elevator and get HM02 (Fly)
 
-#### Fly Menu:
+Fly Menu (1):
 - **Helix** w/ **TM07**
 - D1 use **Super Repel**
 - D4 teach **TM48** (RS) over Slot 1 (MP)
@@ -526,22 +560,21 @@ Take the elevator and get HM02 (Fly)
 
 ## Lavender Town
 
-> Note: If KO'd, then swap to another poke, let them be KO'd, swap back to Nido    
-> sometimes this may mean we need to re-set up X-Item(s)     
-> **if you use a revive on Nido, then cursor will be on Nido**     
+> Note: If you are KO'd, then swap to another poke, let them be KO'd, swap back to Nido    
+> sometimes this may mean we need to re-set up X-Item(s)    
 
 **Lavender Tower Rival:**
 
 > Quick Reference     
-> do not use your last potion, super potion or yolo instead      
+> do not use your last potion, super potion instead if needed     
 > Slot 7 - Potion (3 below HM01)     
 > Up to X Acc (1 above HM01)     
 > Slot 12 - Super Potion      
 > Slot 13 - Revive (3 below Helix)     
 
 - Pidgeotto:
-   - **1-8** HP: **Potion**, (Up 4 X Accuracy if Sand hits), **TB**
-   - **9+** HP: **TB**
+   - 1-8 HP: Slot 7 - Potion, (Up 4 X Accuracy if Sand hits), TB
+   - 9+ HP: TB
 - Gyarados: TB
 - Growlithe: (1-8 HP: Potion), BB
 - Kadabra: Thrash x1
@@ -575,7 +608,8 @@ Menu before Ghost:
 
 **Rocket 3:**
 - TB x2
-- Thrash
+- Thrash x1-2
+- Thrash x1
 
 Get the Poke Flute and Fly (D1) to Celadon.
 
@@ -678,15 +712,15 @@ Menu before Snorlax:
 - EQ x3
 - Weezing:
     - **Elixer**  (3 below Rare Candy)
-	  - If X Attack, scroll Up 2 to use X Special
+	- If X Attack, scroll Up 2 to use X Special
 
 | HP after SD on Koga |      Red Bar Lost on...       | Overview of Strategy                                                                                                       
 | ------------------- | ----------------------------- | -----------------------------------------------
 | 0-1                 | Bruno's Machamp               | Normal Strats                                                                                                   
-| 2-6                 | Lorelei's Lapras / Cloyster   | Normal until Bruno; Use Max Ether turn 2 on Onix                                                   
-| 7-14                | BB's Machop / VR's Growlithe  | X Special on Giovanni's Nidoking  
-| 15-22               | Blaine's Rapidash             | Poké Flute on Vileplume                                                              
-| 23+                 | Beauty's Exeggcute            | Poké Flute on Victreebel  
+| 2-6                 | Lorelei's Lapras / Cloyster   | Normal until Bruno; Use PP Item turn 2 on Onix                                                   
+| 7-14                | BB's Machop / VR's Growlithe  | X Special on Giovanni's Nidoking
+| 15-22               | Blaine's Rapidash             | Poké Flute on Vileplume                                                                                       
+| 23+                 | Beauty's Exeggcute            | Poké Flute on Victreebel         
 
 **Candy Menu** (after exiting Koga's Gym):
 - Slot 5 - Use all **Rare Candies**
@@ -722,9 +756,8 @@ Bike to the gym, cut the trees.
 | HP after Exeggcute  | Overview of Strategy for Erika                                                                                                       
 | ------------------- | --------------------------------------                                            
 | 1-24                | Normal Strats: EQ, Blizz, EQ
-| 25-32               | Poké Flute on **Vileplume** until hit                                                                          
-| 33+                 | Poké Flute on **Victreebel** until hit   
-|                     | Poké Flute is Slot 15  (2 below HM02) 
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
 
 **Erika:**
 - EQ
@@ -774,8 +807,8 @@ Walk back to the teleporter and Dig out.
 - Slot 6 - **Elixer** (3 below Super Repel)
 
 > Backup Boom Strats note:     
-> If 27+ HP, then use **X Special - Slot 4** turn 1 against **Nidoking - Giovanni's 4th Pokemon**,     
-> (TB stall if he doesn't hit you), then once hit use **EQ** and play normal.     
+> If 27+ hp, then use **Slot 4 - X Special** turn 1 against **Giovanni's 4th Pokemon - Nidoking**,     
+> (TB stall after if needed until he hits you), then **EQ** and play normal.     
 
 **Giovanni:**
 - Rhyhorn: EQ
@@ -788,7 +821,7 @@ Menu after leaving the gym and hopping the ledge:
 - **Bike**
 
 Menu before the Nido grass (cursor is on items):
-- Use **Super Repel**
+- Slot 3 - use **Super Repel**
 
 > remember to X Special **on Growlithe** in the next fight     
 > the badge boost is required there to outspeed Zam     
@@ -847,6 +880,7 @@ Only if zero Revives are left:
 > **If you lost red bar during Lorelei**,    
 > then skip the Menu before Bruno    
 > Backup Bruno: **X Accuracy**, d2 **Max Ether** on HD, + HD x5       
+> just gives Onix one extra turn to hit us back into red bar      
 
 **Menu before Bruno**:
 - use Slot 4 - **Max Ether** on HD
@@ -885,11 +919,11 @@ HP      | ITEMS
 - **Save before Lance**
 
 **Lance:**
-- Gyarados: **Slot 3 - X Special** + **TB**
-- Dragonair 1: **X Special** (+ Up 1 - X Accuracy only if you have 3 X Accs left) + **Blizz**
-- Dragonair 2: **Blizz**
-- Aerodactyl: **TB**
-- Dragonite: **Blizz**
+- Gyarados: **Slot 3 - X Special** + TB
+- Dragonair 1: **X Special** (+ Up 1 - X Acc if you have 3 X Accs left) + Blizz
+- Dragonair 2: Blizz
+- Aerodactyl: TB
+- Dragonite: Blizz
 
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
@@ -900,8 +934,8 @@ HP     |      Standard Strat    | Alternate Strat
 Any HP | Heal to 45+ for safety | or yolo if required
 
 **Menu before Champ**:
-- Heal to 22+ or 45+ HP
-- (Only Save if you have either zero Revives or only one X Accuracy left.)
+- Heal to 22+ HP
+- (Only Save if you have zero Revives or if you have only one X Accuracy left.)
 
 **Champion:**
 - Pidgeot Turn 1: **X Special**
@@ -910,7 +944,7 @@ Any HP | Heal to 45+ for safety | or yolo if required
 		- Pidgeot: **UP 1 X Acc** + HD
 		- Alakazam: HD
 		- Rhydon: HD
-		- **Gyarados**: **Thunderbolt**
+		- Gyarados: **TB**
 		- Arcanine: HD
 		- Venusaur: HD
 	- If Pidgeot begins to use Sky Attack turn 1 (*Pidgeot is glowing*):
