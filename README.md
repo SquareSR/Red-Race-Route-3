@@ -345,11 +345,9 @@ Before Boat Rival:
 **Boat Rival:** 
 - Pidgeotto: [1-12 HP: Potion]
 	- HA x2 
-	- Sand Attack x1
-        -  1-22 HP ---> **Swap to Squirtle**, Potion Nido, Spam TW to let Squirtle be KO'd.
-        -  23+ HP ----> **Spam HA**  & plan to swap to Bird on Raticate. 
-    - Sand Attack x2+
-        - Swap to Bird or Squirtle right away and let them be KO'd by Pidgeotto 
+	- Sand Attack:
+        -  1-22 HP ---> **Swap to Squirtle**, Potion Nido, + Spam TW to let Squirtle be KO'd.
+        -  23+ HP ----> **Swap to Bird** OR **Spam HA & plan to swap to Bird on Rat**. 
 - Raticate:
 	- 1-12 HP ---> **Potion**
     - 13-22 HP --> **Potion** [or **MP**, risks being KO'd by Hyper Fang crit]
@@ -390,16 +388,16 @@ Do Cans Manip
     - Pika QA is 4 reg or 6-7 crit
 - Raichu:
 	- Thrash x2
-    - Swap to bird or Squirtle only if dead to hit self
+    - Swap to Bird or Squirtle only if dead to hit self
 
 </td><td>
 
-Surge's Raichu    | Self Hit
------------------ | --------
-&nbsp;            | **14**
-w/Growl           | **9**
-w/Screech         | **29**
-w/Screech & Growl | **17**
+Surge's Raichu    | Hit Self | w/gentleman candy 
+----------------- | -------- | -----------------
+&nbsp;            | **14**   | 15
+w/Growl           | **9**    | 10
+w/Screech         | **29**   | 31
+w/Screech & Growl | **17**   | 28
 
 Exit gym, Cut the tree, get the Bike Voucher, and Dig out. 
 
@@ -408,16 +406,16 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 - Get the Bike and exit shop.
 
 **Bike Menu**:
-  - Swap **Potion** slot 1, down 9 w/ Bike
-  - Up 1 - Teach **TM24** (TB) over Slot 3 (HA)
-  - Use the Bike + cut both trees
+  - Swap Slot 1 - **Potion**, down 9 w/ Bike
+  - Up 1 Teach **TM24** (TB) over Slot 3 (HA)
+  - Bike
 
 ## Route 9
 
 > Quick Reference     
-> Slot 7: Repel (3 below Nugget)     
+> Slot 7: Repel      
 > Slot 8: Parlyz Heal     
-> Slot 9: Potion (3 below HM01)     
+> Slot 9: Potion        
 
 **4 Turn Thrash Girl:**
 - MP
@@ -433,7 +431,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 
 
 #### Fly Split Red Bar (risky)
-- Note: Swap + let swapped poke be KO'd if confused by Slowpoke.
+- Note: Confused by Slowpoke --> Swap + let swapped poke be KO'd
 
 | HP @ L28 | Strategy                       |
 | -------- | ------------------------------ |
@@ -444,32 +442,31 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 
 ## Rock Tunnel
 
-> Quick Reference     
-> Slot 7: Repel (3 below Nugget)     
-> Slot 8: Parlyz Heal     
-> Slot 9: Potion (3 below HM01)     
-
 <img src="https://i.imgur.com/gs5N4V5.png">
+
+> Quick Reference     
+> Slot 7: Repel      
+> Slot 8: Parlyz Heal     
+> Slot 9: Potion      
 
 - **Pokemaniac 1**: BB, TB
 - **Pokemaniac 2**: TB
 
-> Save before Oddish Girl if **under 43 HP**.
-> Gentleman --> Always skip save & Thrash turn 1. 
+> Save before Oddish Girl if **under 43 HP**.      
+> Gentleman --> Always skip save & Thrash turn 1.       
 
-- **Oddish Girl**
-    - 1-17 or 23+ HP ---> **Thrash turn 1**
-    - 18-22 HP ---> **TB + Thrash**
-	   - Sleep ---> Potion under 6 HP.
-       - Para'd ---> keep Thrashing, but use Potion under 14 HP.
-       - Do not use Para Heal in fight, use it in the next Repel Menu instead.
+#### Oddish Girl
+- 1-17 or 23+ HP ---> **Thrash turn 1**
+- 18-22 HP ---> **TB + Thrash**
+     - Sleep ---> 1-13 HP: Potion
+     - Para'd ---> keep Thrashing, but 1-14 HP: Potion
+     - Do not Para Heal in fight, use it in the next Repel Menu instead.
 
-- **Hiker**: BB x3
+#### Hiker: BB x3
 
 > 1-9 HP: Potion before Jr. Trainer (to live crit QA - reg QA does 5)     
 
-**Jr Trainer F:**
-- Thrash x3
+#### Jr Trainer F: Thrash x3
 
 Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
@@ -584,8 +581,8 @@ Enter Silph Co and take the stairs to the 5th Floor
 **Rocket w/Arbok:**
 - Thrash x2-3
 
-> If under 90 HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
-> 90+ HP and Paralyzed: delay using Para Heal until in the next fight.     
+> If under 90 HP and Parlyzed: Menu + use **Parlyz Heal** Slot 5 before the next fight.      
+> otherwise: delay using Para Heal until in the next fight.     
 
 Get the Card Key
 
@@ -596,24 +593,26 @@ Get the Card Key
 	- d13 - **X Speed** (3 below Revive)
     - HD x5
 
-> If under 78 HP, then **Menu before the next fight**:        
-> use Slot 8 - Elixer (3 below Parlyz Heal)      
->      
-> **Silph Rocket - under 78 HP**:      
-> - Cubone: X-Accuracy + BB     
-> - Drowzee: HD     
-> - Marowak: HD     
+#### Scenario 1: if 1-77 HP, 
+- Menu before Silph Rocket:
+  - Use **Elixer** - Slot 8
+- Silph Rocket (1-77 HP)
+  - **X Accuracy** + BB, then **HD x2** 
 
-**Silph Rocket - with 78+ HP**: 
+#### Scenario 2: if 78+ HP,
+- Skip menu.
+- Silph Rocket (78+ HP)
 - Cubone:
     - **X Accuracy**
-    - if Bone Club hits, then use **Elixer** (3 below Parlyz Heal)
+    - if Bone Club hits, d6 **Elixer** 
     - BB
 - Drowzee:
-    - use **Elixer** (3 below Parlyz Heal) [if you haven't already]
+    - d6 **Elixer** (if you haven't already)
     - HD
 - Marowak:
     - HD
+
+> Consider healing to 16+ HP. 
 
 **Giovanni:**
 - **X Accuracy** + HD
@@ -631,7 +630,7 @@ Dig out w/ Paras
 
 Menu before Snorlax:
 - Slot 4 - **Repel**
-- swap **Parlyz Heal** d11 w/ **Rare Candy** (2 below X Special)
+- swap **Parlyz Heal** d11 w/ **Rare Candy**
 - use **Poke Flute**
 
 ## Cycling Road
@@ -646,9 +645,12 @@ Menu before Snorlax:
 - d5 teach **TM26** (EQ) over Slot 2 (Thrash)
 - Use Bike
 
-> if we ran out of either potions or para heals some time after Surge, then modify EQ Menu as follows:      
-> S4 - **Repel**, d4 swap **Helix** d5 w/ **X-Special**, d5 teach **TM26** (EQ) over Slot 2 (Thrash)     
-> <img src="https://i.imgur.com/vm9OURj.png" width = "120"> in this case, pick up [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS) to fill the bag space          
+> if we ran out of either potions or para heals after Surge, then modify EQ Menu as follows:      
+> S4 - **Repel**, d4 swap **Helix** w/ **X-Special**, teach **TM26** (EQ) over S2 (Thrash)     
+>          
+> <img src="https://i.imgur.com/vm9OURj.png" width = "120">        
+>        
+> in this case, pick up [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS) to fill the bag space          
 
 ## Safari Zone
 
@@ -663,6 +665,8 @@ Menu before Snorlax:
 
 **Juggler 1:**
 - EQ x4
+
+> Consider healing to 47+ HP.
 
 **Juggler 2:**
 - Drowzee: EQ
@@ -765,7 +769,7 @@ Walk back to the teleporter and Dig out.
 > Take one step up and buffer Start to Menu     
 
 **Elixer Menu**:
-- Slot 6 - **Elixer** (3 below Super Repel)
+- Slot 6 - **Elixer**
 
 > Backup Boom Strats note:     
 > If 27+ HP, then use **X Special - Slot 4** turn 1 against **Nidoking - Giovanni's 4th Pokemon**,     
@@ -782,7 +786,7 @@ Menu after leaving the gym and hopping the ledge:
 - **Bike**
 
 Menu before the Nido grass (cursor is on items):
-- Use **Super Repel**
+- Use **Super Repel** - Slot 3
 
 > remember to X Special **on Growlithe** in the next fight     
 > the badge boost is required there to outspeed Zam     
@@ -805,7 +809,7 @@ Menu before the Nido grass (cursor is on items):
 
 ## Victory Road
 
-Menu on step up into cave - "Boulder #1"
+Menu one step up into cave - "Boulder #1"
 - Use **Super Repel**
 - then use **Strength**
 
@@ -824,7 +828,9 @@ Boulder #4 *after droping through the hole*:
 
 > Optional Safety (especially if low on healing items):     
 > Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)       
-> <img src="https://i.imgur.com/hIcu2MX.png" width="175" >      
+> <img src="https://i.imgur.com/hIcu2MX.png" width="175" >       
+>        
+> usually okay to skip with 4 super potions and 1-2+ Potions     
 
 ## Elite Four
 
@@ -873,14 +879,21 @@ HP      | ITEMS
 99-106  | Potion x2
 107-127 | Potion
 
-**Menu before Lance**:
+#### Menu before Lance:
 - **Use Slot 4 - Elixer** and heal to 128+ HP.
 - (**Slot 6 - Super Potion**; **Slot 9 - Potion** as needed)
 - **Save before Lance**
 
-**Lance:**
-- Gyarados: **Slot 3 - X Special** + **TB**
-- Dragonair 1: **X Special** (+ Up 1 - X Accuracy only if you have 3 X Accs left) + **Blizz**
+> The X Special **on Dragonair** --> Speed Badge Boost required for Aerodactyl
+
+#### Lance:
+- **Gyarados**:
+    - **Slot 3 - X Special**
+	- **TB**
+- **Dragonair 1**:
+    - **Use X Special**
+    - (+ Up 1 - X Accuracy, if you have 3 X Accs left) 
+	- **Blizzard** (*d1 to use since cursor is on thunderbolt*)
 - Dragonair 2: **Blizz**
 - Aerodactyl: **TB**
 - Dragonite: **Blizz**
@@ -910,5 +923,5 @@ Any HP | Heal to 45+ for safety | or yolo if required
 	- If Pidgeot begins to use Sky Attack turn 1 (*Pidgeot is glowing*):
 		- Pidgeot: **Blizz**
 		- Alakazam: **EQ**
-		- Rhydon: **Up 1 X Acc** + HD x4
+		- Rhydon: **Up 1 X Acc** + **HD x4**
 
